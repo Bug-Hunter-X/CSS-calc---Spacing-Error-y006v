@@ -1,0 +1,1 @@
+The solution is to always include spaces around the operators in `calc()` expressions.  For example, `width: calc(100% - 20px);` is the corrected version.
